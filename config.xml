@@ -5,10 +5,10 @@
   id="com.phonegap.app2"
   version ="1.0.0">
   
-  <name>app2-Especialidad Tecnico en Programación</name>
+  <name>app3-Dia Mundial de la Salud</name>
   
   <description>
-   Aplicacion que muestra informacion sobre la especialidad de Técnico en Programación
+   Aplicación que nos habla sobre el Día Mundial de la Salud
   </description>
   
   <author href="http://build.phonegap.com" email="cb16.montes.ramirez.jair@gmail.com">
